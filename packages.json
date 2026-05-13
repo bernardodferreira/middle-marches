@@ -1,0 +1,77 @@
+{
+  "packages": [
+    {
+      "id": "xocua-jungle",
+      "name": "Xocua Jungle",
+      "type": "sequential",
+      "condition": "Win a game in which you controlled a creature with 3 or more +1/+1 counters",
+      "tiers": [
+        {
+          "label": "I",
+          "unlocked": false,
+          "cards": ["The Mimeoplasm", "Incubation Druid", "Algae Gharial"]
+        },
+        {
+          "label": "II",
+          "unlocked": false,
+          "cards": ["Misty Rainforest", "Unstable Mutation", "Hooting Mandrills"]
+        },
+        {
+          "label": "III",
+          "unlocked": false,
+          "cards": ["Birthing Pod", "Broodhatch Nantuko"]
+        }
+      ]
+    },
+    {
+      "id": "the-crossroads",
+      "name": "The Crossroads",
+      "type": "cyoa",
+      "condition": "Draft a card of each color in a single draft",
+      "unlocked": false,
+      "description": "A diverging path. Choose one road — it shapes what comes next.",
+      "branches": [
+        {
+          "id": "path-of-fire",
+          "label": "Path of Fire",
+          "chosen": false,
+          "cards": ["Goblin Guide", "Lightning Bolt"],
+          "branches": [
+            {
+              "id": "fire-aggro",
+              "label": "Fan the Flames",
+              "chosen": false,
+              "cards": ["Monastery Swiftspear", "Eidolon of the Great Revel"]
+            },
+            {
+              "id": "fire-control",
+              "label": "Slow Burn",
+              "chosen": false,
+              "cards": ["Mizzix's Mastery", "Fiery Confluence"]
+            }
+          ]
+        },
+        {
+          "id": "path-of-tides",
+          "label": "Path of Tides",
+          "chosen": false,
+          "cards": ["Counterspell", "Brainstorm"],
+          "branches": [
+            {
+              "id": "tides-tempo",
+              "label": "Swift Current",
+              "chosen": false,
+              "cards": ["Delver of Secrets", "Ponder"]
+            },
+            {
+              "id": "tides-control",
+              "label": "Still Waters",
+              "chosen": false,
+              "cards": ["Force of Will", "Jace, the Mind Sculptor"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
