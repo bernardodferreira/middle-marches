@@ -72,6 +72,21 @@
           ]
         }
       ]
+    },
+    {
+      "id": "the-armoury",
+      "name": "The Armoury",
+      "type": "collection",
+      "condition": "Have three or more Equipment cards in play simultaneously",
+      "unlocked": false,
+      "cards": [
+        "Umezawa's Jitte",
+        "Sword of Fire and Ice",
+        "Skullclamp",
+        "Lightning Greaves",
+        "Batterskull",
+        "Shadowspear"
+      ]
     }
   ]
 }
