@@ -40,7 +40,7 @@
       "type": "cyoa",
       "condition": "Draft a card of each color in a single draft",
       "unlocked": false,
-      "description": "A diverging path. Choose one road Ã¢ÂÂ it shapes what comes next.",
+      "description": "A diverging path. Choose one road ÃÂ¢ÃÂÃÂ it shapes what comes next.",
       "branches": [
         {
           "id": "path-of-fire",
@@ -160,6 +160,18 @@
           "condition": ""
         }
       ]
+    },
+    {
+      "id": "faculty",
+      "name": "The Faculty",
+      "type": "collection",
+      "condition": "Have 5 Wizards in the battlefield simultaneously.",
+      "unlocked": false,
+      "cards": [
+        "Archmage Emeritus",
+        "Spellseeker"
+      ],
+      "tiers": []
     }
   ]
 }
