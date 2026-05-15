@@ -130,8 +130,21 @@
           "label": "Fragments of the Crystal",
           "unlocked": false,
           "cards": [
-            "Crystal Shard"
+            "Crystal Shard",
+            "Prismite"
           ],
+          "condition": ""
+        },
+        {
+          "label": "II",
+          "unlocked": false,
+          "cards": [],
+          "condition": ""
+        },
+        {
+          "label": "III",
+          "unlocked": false,
+          "cards": [],
           "condition": ""
         }
       ]
