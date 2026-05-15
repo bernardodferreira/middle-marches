@@ -151,7 +151,12 @@
         {
           "label": "III",
           "unlocked": false,
-          "cards": [],
+          "cards": [
+            "Hunted Horror",
+            "Hunted Horror",
+            "Coveted Jewel",
+            "Too Greedily, Too Deep"
+          ],
           "condition": ""
         }
       ]
