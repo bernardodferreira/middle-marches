@@ -117,6 +117,24 @@
         "Shadowspear"
       ],
       "tiers": []
+    },
+    {
+      "id": "crystal-caves",
+      "name": "The Crystal Caves",
+      "type": "sequential",
+      "condition": "Sacrifice 5 Treasure tokens in a single turn.",
+      "unlocked": false,
+      "cards": [],
+      "tiers": [
+        {
+          "label": "Fragments of the Crystal",
+          "unlocked": false,
+          "cards": [
+            "Crystal Shard"
+          ],
+          "condition": ""
+        }
+      ]
     }
   ]
 }
