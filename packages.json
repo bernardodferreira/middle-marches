@@ -139,7 +139,13 @@
         {
           "label": "II",
           "unlocked": false,
-          "cards": [],
+          "cards": [
+            "Crystalline Giant",
+            "Crystalline Crawler",
+            "Chromatic Star",
+            "Mind Stone",
+            "Xorn"
+          ],
           "condition": ""
         },
         {
