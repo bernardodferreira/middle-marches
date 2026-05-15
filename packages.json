@@ -13,7 +13,8 @@
             "The Mimeoplasm",
             "Incubation Druid",
             "Algae Gharial"
-          ]
+          ],
+          "condition": ""
         },
         {
           "label": "II",
@@ -22,15 +23,18 @@
             "Misty Rainforest",
             "Unstable Mutation",
             "Hooting Mandrills"
-          ]
+          ],
+          "condition": ""
         },
         {
           "label": "III",
           "unlocked": false,
           "cards": [
             "Birthing Pod",
-            "Broodhatch Nantuko"
-          ]
+            "Broodhatch Nantuko",
+            "Master Biomancer"
+          ],
+          "condition": ""
         }
       ]
     },
