@@ -40,7 +40,7 @@
       "type": "cyoa",
       "condition": "Draft a card of each color in a single draft",
       "unlocked": false,
-      "description": "A diverging path. Choose one road â it shapes what comes next.",
+      "description": "A diverging path. Choose one road Ã¢ÂÂ it shapes what comes next.",
       "branches": [
         {
           "id": "path-of-fire",
@@ -131,7 +131,6 @@
           "unlocked": false,
           "cards": [
             "Crystal Shard",
-            "Prismite",
             "Gemstone Mine",
             "Duergar Hedge-Mage"
           ],
